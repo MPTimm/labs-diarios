@@ -12,7 +12,3 @@ Solução focada em criar alta disponibilidade com backup em Object Storage na n
 Solução focada em criar ambiente modernizado com tecnologia de virtualização.
 * **Tecnologias:** Hypervisor, On premise, Cluster.
 
-### [3. Arquitetura EFS]
-Demonstração de como a arquitetura do Elastic File Sytem da AWS funciona.
-* **Tecnologias: **File System, AWS, EFS
-   
