@@ -4,5 +4,8 @@ Bem-vindo ao meu repositório de laboratórios diários. Aqui demonstro meus est
 
 ## 📂 Organização por assuntos
 
-[Redes e fundamentos](/01-redes-e-fundamentos)
+* [01. Redes e Segurança (VPC, Subnets, Bastion Host)](./01-redes-e-fundamentos/)
+* [02. Computação Distribuída (EC2 e Load Balancers)](./02-computacao/)
+* [03. Armazenamento de Dados (S3 e Elastic Block Store)](./03-armazenamento/)
+* [04. Arquiteturas Desacopladas e Serverless](./04-serverless/)
 
